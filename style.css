@@ -2,6 +2,12 @@
   background-color: #fafafa;
 }
 
+.work-exp-sec .accordion-header ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
 @media (min-width: 1400px) {
   .container,
   .container-lg,
